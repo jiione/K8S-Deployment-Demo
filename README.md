@@ -43,6 +43,7 @@ docker build -t jiione/spring-app:latest .
 docker push jiione/spring-app:latest
 ```
 - Docker Hub 계정에 로그인한 상태여야 하며, <Dockerhub id>/spring-app:latest 이름으로 이미지를 업로드합니다.
+![image](https://github.com/jiione/K8S-Deployment-Demo/blob/main/images/%EC%BA%A1%EC%B2%98.PNG)
 
 ### 4. Kubernetes에 배포하기 🚢
 이제 Kubernetes 클러스터에 애플리케이션을 배포합니다. 쿠버네티스의 `kubectl` 명령을 사용하여 Deployment를 생성합니다.

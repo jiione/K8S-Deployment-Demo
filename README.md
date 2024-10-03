@@ -2,6 +2,7 @@
 
 ## 📋 Overview
 Spring 애플리케이션을 Docker로 이미지화하여 Docker Hub에 업로드하고, 이를 Kubernetes를 통해 배포하는 과정을 설명합니다. 이 단계별 설명을 통해 **쿠버네티스 환경에서 애플리케이션을 배포하고 외부에서 접근하는 방법**을 배울 수 있습니다.
+![image](https://github.com/jiione/K8S-Deployment-Demo/blob/main/images/k8s.png)
 
 ## 🛠️ Prerequisites
 - Docker 및 Docker Hub 계정
